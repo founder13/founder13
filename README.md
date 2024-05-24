@@ -41,45 +41,19 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br>
-  <br>
-</div>
-
-<hr/>
-
-<br>
-<hr>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,django,mysql,figma,git,github" />
-</div>
-</br>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/founder13/founder13/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br>
+  <br>
 </div>
 
-<hr/>
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-founder13.vercel.app/?user=founder13&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-founder13.vercel.app/api?username=founder13&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-founder13.vercel.app/api/top-langs/?username=founder13&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=founder13&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-<br>
-
-<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!+😉;" />
+</h3>
